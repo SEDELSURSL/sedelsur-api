@@ -1,3 +1,4 @@
+console.log("API Sedelsur iniciada");
 
 const express = require('express');
 const bodyParser = require('body-parser');
